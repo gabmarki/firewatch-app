@@ -1,4 +1,4 @@
-# 🔥 FireWatch – Monitoramento de Queimadas via Satélite
+# FireWatch – Monitoramento de Queimadas via Satélite
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-blue)](https://dart.dev)
@@ -8,26 +8,26 @@
 
 ---
 
-## 📱 Sobre o Projeto
+## Sobre o Projeto
 
 O **FireWatch** consome dados da [NASA FIRMS API](https://firms.modaps.eosdis.nasa.gov/) para exibir focos de incêndio ativos em um mapa interativo. O app envia alertas automáticos quando focos são detectados próximos à localização do usuário, apoiando cidadãos, agricultores, bombeiros e a defesa civil.
 
-Desenvolvido como parte da **Global Solution 2025 – FIAP**, com foco em soluções da economia espacial aplicadas ao monitoramento ambiental.
+Desenvolvido como parte da **Global Solution 2026 – FIAP**, com foco em soluções da economia espacial aplicadas ao monitoramento ambiental.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 🗺️ **Mapa interativo** com focos de incêndio em tempo real
-- 🔔 **Alertas por proximidade** (raio configurável de 10 a 200 km)
-- 📊 **Dashboard** com estatísticas regionais e tendências
-- 🔎 **Filtros** por período (24h, 48h, 7 dias)
-- 📸 **Denúncia de focos** com foto e localização GPS
-- 📡 **Modo offline** com cache dos últimos dados
+- **Mapa interativo** com focos de incêndio em tempo real
+- **Alertas por proximidade** (raio configurável de 10 a 200 km)
+- **Dashboard** com estatísticas regionais e tendências
+- **Filtros** por período (24h, 48h, 7 dias)
+- **Denúncia de focos** com foto e localização GPS
+- **Modo offline** com cache dos últimos dados
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 | Tecnologia | Versão |
 |------------|--------|
@@ -40,7 +40,7 @@ Desenvolvido como parte da **Global Solution 2025 – FIAP**, com foco em soluç
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -53,7 +53,7 @@ Desenvolvido como parte da **Global Solution 2025 – FIAP**, com foco em soluç
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/[USUARIO]/firewatch-app.git
+git clone https://github.com/gabmarki/firewatch-app.git
 cd firewatch-app
 
 # 2. Instale as dependências
@@ -66,19 +66,9 @@ cp .env.example .env
 # 4. Execute o app
 flutter run
 ```
-
-### Configurar variáveis de ambiente
-
-Crie um arquivo `.env` na raiz do projeto:
-
-```
-NASA_FIRMS_API_KEY=sua_chave_aqui
-GOOGLE_MAPS_API_KEY=sua_chave_aqui
-```
-
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 lib/
@@ -106,15 +96,13 @@ lib/
 
 ---
 
-## 📄 Documentação
+## Repositorio
 
-- [Relatório Técnico](docs/relatorio_tecnico.md)
-- [Diagrama BPMN](docs/bpmn/) – abrir no draw.io
-- [Mockups Figma](https://figma.com/[INSERIR_LINK])
+https://github.com/gabmarki/firewatch-app
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 | Nome | RM |
 |------|----|
@@ -124,10 +112,8 @@ lib/
 
 ---
 
-## 📜 Licença
+## Licenca
 
 MIT License – veja [LICENSE](LICENSE) para detalhes.
 
 ---
-
-*Global Solution 2025 – FIAP | Turma 3SIOA*
