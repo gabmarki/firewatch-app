@@ -60,8 +60,6 @@ cd firewatch-app
 flutter pub get
 
 # 3. Configure as variáveis de ambiente
-cp .env.example .env
-# Edite o .env com suas chaves de API
 
 # 4. Execute o app
 flutter run
