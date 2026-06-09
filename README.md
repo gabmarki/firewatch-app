@@ -106,14 +106,6 @@ https://github.com/gabmarki/firewatch-app
 
 | Nome | RM |
 |------|----|
-| [Nome 1] | RM00000 |
-| [Nome 2] | RM00000 |
-| [Nome 3] | RM00000 |
-
----
-
-## Licenca
-
-MIT License – veja [LICENSE](LICENSE) para detalhes.
+| Gabriel Marki] | 558969 |
 
 ---
